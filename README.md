@@ -20,3 +20,11 @@ A popular dataset named CamVid(Cambridge-Driving Labeled Video Database) was use
 - Sci-Kit Learn, NumPy, Pandas, Matplotlib
 - TensorFlow, Keras, ImageDataGenerator
 - ComputerVision, UNet
+
+## Procedure
+- Functions were built to mask training images according to labels
+- Images were preprocessed keeping the resource limitations (gpu, memory etc.) in mind
+- TensorFlow's ImageDataGenerator used to fit data optimally in the model
+- A segmentation model was built and trained. Also the model was saved for later usage.
+- Tested the performance the model, compared against existing architecture (UNet)
+- Loaded the saved model to see if it functions like the original one.
