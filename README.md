@@ -1,5 +1,6 @@
-# Semantic Segmentation
 
+
+**Semantic Segmentation:**
 <p align='justify'>
 Image segmentation is a commonly used technique in digital image processing and analysis to partition an image into multiple parts or regions, often based on the characteristics of the pixels in the image. (mathworks.com)
 </p>
