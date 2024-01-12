@@ -1,5 +1,5 @@
 ## Semantic Segmentation With CamVid
-A Semantic Segmentation model was built through experiment also compared its performance against existing popular model UNet.
+A Semantic Segmentation model was built through experiment, also compared its performance against existing popular model UNet.
 
 **Semantic Segmentation:**
 <p align='justify'>
